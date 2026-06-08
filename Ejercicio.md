@@ -1,4 +1,7 @@
 [Regresar](UNIDAD1.md)
+
+<a id="indice"></a>
+
 # EJERCICIO CON ESTRUCTURA SECUENCIAL
 
 ### Índice
