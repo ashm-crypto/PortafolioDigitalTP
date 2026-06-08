@@ -3,6 +3,9 @@
 
 - [Algoritmo](#Algoritmo)
 - [Pseudocódigo](#Pseudocódigo)
+- [Prueba de escritorio](#Prueba-de-escritorio)
+- [Lenguajes de programación](#Lenguajes-de-programación)
+- [Programación por bloques](#Programación-por-bloques)
 
 ## Algoritmo
 
