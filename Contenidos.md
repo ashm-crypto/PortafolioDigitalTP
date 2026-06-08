@@ -2,6 +2,7 @@
 # CONTENIDOS
 
 - [Algoritmo](#Algoritmo)
+- [Pseudocódigo](#Pseudocódigo)
 
 ## Algoritmo
 
