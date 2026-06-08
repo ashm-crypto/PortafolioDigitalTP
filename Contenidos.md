@@ -43,6 +43,8 @@ Usa una serie de símbolos o figuras que representan cada tipo de paso dentro de
 <br>
 Un diagrama de flujo sirve para simplificar la comprensión de un algoritmo, ya que, al ser una herramienta visual, el proceso se presenta de forma ordenada. También permite explicar ideas fácilmente y detectar errores más rápido.
 
+[Volver al índice](#indice)
+
 ## Prueba de escritorio
 
 Una prueba de escritorio es un proceso manual esencial en el desarrollo de software, permite simular la ejecución de un algoritmo para analizar su comportamiento sin ejecutarlo en el computador, prácticamente es una tabla en donde se anota los datos de entrada, proceso y salida.
@@ -53,6 +55,8 @@ Ejemplo:
 <img width="321" height="61" alt="image" src="https://github.com/user-attachments/assets/d38864bf-a4d5-43e4-817d-4f6a92263508" />
 <br>
 <img width="321" alt="image" src="https://github.com/user-attachments/assets/d339ec13-32e9-4b8e-a4eb-6d60f3720a05" />
+
+[Volver al índice](#indice)
 
 ## Lenguajes de programación
 Un lenguaje de programación es un conjunto de reglas gramaticales que se utilizan para dar instrucciones a una computadora, una persona habla con lenguaje natural mientras que, un lenguaje de programación está destinado a las máquinas. Ambos lenguajes tienen similitudes como que ambos tienen una sintaxis que deben seguir.
@@ -80,6 +84,8 @@ Algunos de estos lenguajes compilados más conocidos son C, C++ y Cobol
 <br><br>El lenguaje interpretado es aquel que ejecuta el código directamente y no necesita ser compilado previamente. Esto se hace a través de un intérprete, que lee y ejecuta el código de manera continua.
 Entre los lenguajes interpretados más conocidos se encuentran JavaScript, Python y PHP.
 
+[Volver al índice](#indice)
+
 ## Programación por bloques
 La programación por bloques es un método visual para crear software arrastrando y encajando piezas gráficas como bloques. Es un método simple para comenzar y reduce el tiempo de aprendizaje inicial.
 <br><br>Los lenguajes de programación por bloques actuales clasifican los bloques en categorías, utilizando un color distinto para bloques de cada categoría. 
@@ -87,5 +93,5 @@ Dentro de cada categoría existe una cantidad de bloques limitada, con estos blo
 
 <img width="1600" height="861" alt="image" src="https://github.com/user-attachments/assets/cb08db47-55aa-426b-95dd-f7bc04d41dd5" />
 
-
+[Volver al índice](#indice)
 ___
