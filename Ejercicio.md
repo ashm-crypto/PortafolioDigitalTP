@@ -22,7 +22,7 @@ Una modista, para realizar sus prendas de vestir, encarga las telas al extranjer
 [Volver al índice](#indice)
 
 ## 2. Análisis del problema
-<br><br>
+<br>
 
 <img width="461" height="41" alt="image" src="https://github.com/user-attachments/assets/dd6b0224-aa15-48c8-bf0a-fd494dda91ed" />
 
