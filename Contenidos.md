@@ -1,6 +1,8 @@
 [Regresar](UNIDAD1.md)
 # CONTENIDOS
 
+- [Algoritmo](#Algoritmo)
+
 ## Algoritmo
 
 Un algoritmo es una secuencia ordenada y finita de instrucciones o pasos lógicos diseñados para realizar un cálculo, desarrollar una tarea o resolver un problema específico, estos son la base de la programación y permiten la automatización, eficiencia y procesamiento avanzado de instrucciones. Estos se utilizan principalmente para diseñar programas que ejecuten tareas específicas.
