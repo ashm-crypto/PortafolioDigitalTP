@@ -34,6 +34,8 @@ Ejemplo:
 <br>
 <img width="300"  alt="image" src="https://github.com/user-attachments/assets/fb5ecb06-7459-47a7-b4f3-5597e199c3d6" />
 
+[Volver al índice](#indice)
+
 ## Diagrama de flujo
 
 El diagrama de flujo es un tipo de diagrama que explica visualmente un proceso o flujo de trabajo, es prácticamente una representación gráfica y secuencial de un proceso, sistema o algoritmo. 
