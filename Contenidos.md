@@ -1,6 +1,10 @@
 [Regresar](UNIDAD1.md)
+
+<a id="indice"></a>
+
 # CONTENIDOS
 
+### Índice
 - [Algoritmo](#Algoritmo)
 - [Pseudocódigo](#Pseudocódigo)
 - [Prueba de escritorio](#Prueba-de-escritorio)
@@ -19,6 +23,8 @@ Un ejemplo de algoritmo es preparar café:
 5. Servir
 
 Así se demuestra que es una secuencia ordenada de pasos diseñados para resolver un problema.
+
+[Volver al índice](#indice)
 
 ## Pseudocódigo
 
