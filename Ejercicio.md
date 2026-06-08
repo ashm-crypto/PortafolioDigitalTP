@@ -12,7 +12,7 @@
 - [Codificación](#Codificación)
 - [Validación](#Validación)
   
-1. Planteamiento del problema
+## 1. Planteamiento del problema
 
 <br>
 
@@ -21,7 +21,7 @@ Una modista, para realizar sus prendas de vestir, encarga las telas al extranjer
 
 [Volver al índice](#indice)
 
-2. Análisis del problema
+## 2. Análisis del problema
 <br><br>
 
 <img width="461" height="41" alt="image" src="https://github.com/user-attachments/assets/dd6b0224-aa15-48c8-bf0a-fd494dda91ed" />
@@ -29,7 +29,7 @@ Una modista, para realizar sus prendas de vestir, encarga las telas al extranjer
 [Volver al índice](#indice)
 <br>
 
-3. Diseño del algoritmo
+## 3. Diseño del algoritmo
 
 <br>
 
@@ -42,7 +42,7 @@ Una modista, para realizar sus prendas de vestir, encarga las telas al extranjer
 [Volver al índice](#indice)
 <br>
 
-4. Codificación
+## 4. Codificación
 
 <br>
 
@@ -51,7 +51,7 @@ Una modista, para realizar sus prendas de vestir, encarga las telas al extranjer
 [Volver al índice](#indice)
 <br>
 
-5. Validación
+## 5. Validación
    
 <br>
 
