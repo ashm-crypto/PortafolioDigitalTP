@@ -1,5 +1,10 @@
 [Regresar](UNIDAD2.md)
+
 # ESTRUCTURAS REPETITIVAS
+
+- [WHILE](#WHILE)
+- [DO-WHILE](#DO-WHILE)
+- [FOR](FOR)
 
 ## WHILE
 Un bucle while es una estructura de control que ejecuta un bloque de código de forma repetitiva cuando una condición es verdadera. Si la condición es falsa el ciclo se detiene.
@@ -40,6 +45,7 @@ do {
 Es una estructura de control que permite ejecutar un bloque de código repetitivo sabiendo el número de iteraciones que va a realizar, este tiene tres componentes, la inicialización dónde se le asigna un valor a la variable, después va la condición y por último va el incremento o decremento.
 
 Su estructura en diagrama de flujo es:
+
 <img width="295" height="214" alt="image" src="https://github.com/user-attachments/assets/4b4f5f39-d61e-4037-bd03-e52ea02ad26b" />
 
 Su sintaxis básica es:
