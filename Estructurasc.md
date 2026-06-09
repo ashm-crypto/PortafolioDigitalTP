@@ -4,11 +4,11 @@
 
 # ESTRUCTURAS CONDICIONALES
 
-- [Estructuras condicionales simples](#Estructuras-condicionales-simples:)
-- [Estructuras condicionales dobles](#Estructuras-condicionales-multiples:)
-- [Estructuras condicionales múltiples](#Estructuras-condicionales-simples:)
+- [Estructuras condicionales simples](#Estructuras-condicionales-simples)
+- [Estructuras condicionales dobles](#Estructuras-condicionales-multiples)
+- [Estructuras condicionales múltiples](#Estructuras-condicionales-simples)
   
-## Estructuras condicionales simples:
+## Estructuras condicionales simples
 Las estructuras condicionales simples permiten a un programa tomar decisiones y ejecutar diferentes bloques de código según se cumpla o no la condición lógica, si la condición es verdadera ejecuta el bloque de código. Si es falso el programa salta a la siguiente instrucción.
 <br>
 ### IF
@@ -25,7 +25,7 @@ if (condicion){
 ``` 
 [Volver al inicio](#indice)
 
-## Estructuras condicionales dobles:
+## Estructuras condicionales dobles
 Las estructuras condicionales dobles ejecutan diferentes bloques de código, si la condición es verdadera realiza una acción y si la condición es falsa realiza una acción alternativa, a diferencia de una estructura simple, que solo se ejecuta cuano la condición es verdadera, la estructura doble asegura que el sistema ejecutará un bloque.
 
 ### IF-ELSE
@@ -43,7 +43,7 @@ if (condicion){
 ```
 [Volver al inicio](#indice)
 
-## Estructuras condicionales múltiples:
+## Estructuras condicionales múltiples
 Las estructuras condicionales múltiples evalúan una variable y ejecutan diferentes bloques de código según el valor que tome. Se basa en el cumplimiento de una condición pero en lugar de evaluar si la condición es verdadera o falsa, lo que hace es tomar una variable y evaluar que valor exacto tiene y dependiendo de ese valor el programa salta al caso que coincida y ejecuta el bloque de código.
 
 ### SWITCH/CASE
