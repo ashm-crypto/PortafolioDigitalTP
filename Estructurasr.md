@@ -4,7 +4,7 @@
 ## WHILE
 Un bucle while es una estructura de control que ejecuta un bloque de código de forma repetitiva cuando una condición es verdadera. Si la condición es falsa el ciclo se detiene.
 
-Se utiliza cuano no se conoce de antemano el número de repeticiones que realizará un programa, la condición se evalúa antes de cada repetición, es por esto que el bloque de código no se ejecuta si la primera vez que se evalúa la condición es falsa. Es muy importante el uso de de un operador post-incremento, si no se lo implementa el programa entrará en un bucle infinito.
+Se utiliza cuano no se conoce de antemano el número de repeticiones que realizará un programa, la condición se evalúa antes de cada repetición, es por esto que el bloque de código no se ejecuta si la primera vez que se evalúa la condición es falsa. Es muy importante el uso de un incremento o decremento, si no se lo implementa el programa entrará en un bucle infinito.
 
 Su estructura en diagrama de flujo es:
 
@@ -17,6 +17,7 @@ while (condición){
   <acción 1>
 }
 ```
+[Volver al inicio](#indice)
 
 ## DO-WHILE
 Es una estructura de control que ejecuta un bloque de código de forma repetitiva cuando la condición es falsa o verdadera, a diferencia de while tradicional, el bloque se ejecuta mínimo una vez antes de verificar una condición. Si la condición se cumple se repite el bucle y si no, sale del ciclo.
@@ -33,8 +34,20 @@ do {
 } while (condición);
 
 ```
+[Volver al inicio](#indice)
+
 ## FOR
-Es una estructura 
+Es una estructura de control que permite ejecutar un bloque de código repetitivo sabiendo el número de iteraciones que va a realizar, este tiene tres componentes, la inicialización dónde se le asigna un valor a la variable, después va la condición y por último va el incremento o decremento.
 
+Su estructura en diagrama de flujo es:
+<img width="295" height="214" alt="image" src="https://github.com/user-attachments/assets/4b4f5f39-d61e-4037-bd03-e52ea02ad26b" />
 
+Su sintaxis básica es:
 
+```
+for (inicialización, condición, inc|dec){
+  <acción 1>
+}
+```
+
+[Volver al inicio](#indice)
