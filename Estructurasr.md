@@ -18,8 +18,23 @@ while (condición){
 }
 ```
 
+## DO-WHILE
+Es una estructura de control que ejecuta un bloque de código de forma repetitiva cuando la condición es falsa o verdadera, a diferencia de while tradicional, el bloque se ejecuta mínimo una vez antes de verificar una condición. Si la condición se cumple se repite el bucle y si no, sale del ciclo.
 
+Su estructura en diagrama de flujo es:
 
+<img width="360" height="307" alt="image" src="https://github.com/user-attachments/assets/c284f986-8d66-4af4-a85a-9fa9f79c5d3b" />
+
+Su sintaxis básica es:
+
+```
+do {
+  <acción 1>
+} while (condición);
+
+```
+## FOR
+Es una estructura 
 
 
 
