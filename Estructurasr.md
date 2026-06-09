@@ -4,7 +4,7 @@
 
 - [WHILE](#WHILE)
 - [DO-WHILE](#DO-WHILE)
-- [FOR](FOR)
+- [FOR](#FOR)
 
 ## WHILE
 Un bucle while es una estructura de control que ejecuta un bloque de código de forma repetitiva cuando una condición es verdadera. Si la condición es falsa el ciclo se detiene.
