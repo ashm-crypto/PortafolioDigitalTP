@@ -5,8 +5,8 @@
 # ESTRUCTURAS CONDICIONALES
 
 - [Estructuras condicionales simples](#Estructuras-condicionales-simples)
-- [Estructuras condicionales dobles](#Estructuras-condicionales-multiples)
-- [Estructuras condicionales múltiples](#Estructuras-condicionales-simples)
+- [Estructuras condicionales dobles](#Estructuras-condicionales-dobles)
+- [Estructuras condicionales múltiples](#Estructuras-condicionales-múltiples)
   
 ## Estructuras condicionales simples
 Las estructuras condicionales simples permiten a un programa tomar decisiones y ejecutar diferentes bloques de código según se cumpla o no la condición lógica, si la condición es verdadera ejecuta el bloque de código. Si es falso el programa salta a la siguiente instrucción.
