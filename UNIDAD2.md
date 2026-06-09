@@ -1,2 +1,4 @@
 # [UNIDAD 2](index.md)
 ## [ESTRUCTURAS CONDICIONALES](Estructurasc.md)
+## [ESTRUCTURAS REPETITIVAS](Estructurasr.md)
+## [EJERCICIO CON ESTRUCTURA CONDICIONAL Y REPETITIVA](Ejerciciocyr.md)
