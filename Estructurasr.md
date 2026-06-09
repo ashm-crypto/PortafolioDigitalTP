@@ -12,6 +12,13 @@ Su estructura en diagrama de flujo es:
 
 Su sintaxis básica es:
 
+```
+while (condición){
+  <acción 1>
+}
+```
+
+
 
 
 
