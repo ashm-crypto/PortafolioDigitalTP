@@ -8,7 +8,7 @@
 
 - [Planteamineto del problema](#Planteamiento-del-problema)
 - [Análisis del problema](#Análisis-del-problema)
-- [Diseño del algorítmo](#Diseño-del-algorítmo)
+- [Diseño del algoritmo](#Diseño-del-algoritmo)
 - [Codificación](#Codificación)
 - [Validación](#Validación)
   
