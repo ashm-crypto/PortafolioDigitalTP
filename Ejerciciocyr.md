@@ -34,7 +34,8 @@ Cantidad de adultos mayores.
 
 <img width="760" height="1493" alt="Diagrama sin título (2)" src="https://github.com/user-attachments/assets/96a0ce92-bb4c-4fab-95bc-2cca16ce5e98" />
 <br>
-[Volver al inicio](indice)
+
+[Volver al inicio](#indice)
 
 
 ## Codificación
