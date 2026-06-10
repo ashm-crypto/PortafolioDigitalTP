@@ -42,6 +42,7 @@ Cantidad de adultos mayores.
 <img width="773" height="635" alt="Captura de pantalla 2026-06-09 185605" src="https://github.com/user-attachments/assets/7f076bf4-4a23-4105-9b46-ad4fa33ed7ee" />
 <img width="553" height="191" alt="image" src="https://github.com/user-attachments/assets/30d9b808-be3e-4f17-920c-7c19883e2052" />
 <br>
+
 [Volver al inicio](#indice)
 
 
@@ -53,5 +54,6 @@ Cantidad de adultos mayores.
 
 <img width="472" height="346" alt="image" src="https://github.com/user-attachments/assets/95977878-ea43-43ed-aca6-114b496e4012" />
 <br>
+
 [Volver al inicio](#indice)
 
