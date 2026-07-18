@@ -1,4 +1,4 @@
-[Regresar](UNIDAD1.md)
+[Regresar](index.md)
 # BIBLIOGRAFÍA
 [1]	«Compiled Languages», study.com. Accedido: 9 de junio de 2026. [En línea]. Disponible en: https://study.com/academy/lesson/compiled-languages.html
 <br>
