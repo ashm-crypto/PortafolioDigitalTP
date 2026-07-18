@@ -1,4 +1,7 @@
 [Regresar](UNIDAD3.md)
+
+#📘 PRINCIPALES DIFICULTADES Y REFLEXIÓN CRÍTICA
+
 ## Dificultades
 Tuve dos dificultades.
 1. Al inicio, el concepto de "paso por valor" y "paso por referencia" me resultaba abstracto y difícil de diferenciar en la práctica. Mi principal dificultad estaba en entender cómo se gestiona la memoria en cada caso. Al principio, intentaba modificar variables dentro de las funciones y no notaba los cambios que habpa entre ambas. Con el tiempo, logré entender como funcionaban.
