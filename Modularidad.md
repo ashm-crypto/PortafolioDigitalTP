@@ -4,7 +4,7 @@
 
 - [Concepto](#Concepto)
 - [Funciones](#Funciones)
-- [Pase de parametros](#Pase_de_parametros)
+- [Pase de parametros](#Pase-de-parametros)
   
 ## Concepto
 La programación modular es un modelo de diseño de software basado en la técnica de "divide y vencerás". Cuando un desarrollador se enfrenta a algoritmos extensos la modularización permite fraccionar ese programa de gran escala en subprogramas mucho más pequeños.
