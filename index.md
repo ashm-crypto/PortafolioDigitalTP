@@ -68,10 +68,10 @@
 
 ___
 
-# [UNIDAD 1](UNIDAD1.md)
-# [UNIDAD 2](UNIDAD2.md)
-# [UNIDAD 3](UNIDAD3.md)
-## [CONCLUSIONES GENERALES](Conclusiones.md)
-## [BIBLIOGRAFÍA](Bibliografía.md)
-## Declaración de IA
+# 📚[UNIDAD 1](UNIDAD1.md)
+# 📚[UNIDAD 2](UNIDAD2.md)
+# 📚[UNIDAD 3](UNIDAD3.md)
+# 📄[CONCLUSIONES GENERALES](Conclusiones.md)
+# 📖[BIBLIOGRAFÍA](Bibliografía.md)
+# 🤖Declaración de IA
 Se utilizó la IA para manejo del lenguaje Markdown y mejora de redacción reflexión crítica.
