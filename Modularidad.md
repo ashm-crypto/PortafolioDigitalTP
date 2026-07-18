@@ -1,6 +1,12 @@
 [Regresar](UNIDAD3.md)
 
 # MODULARIDAD
+
+- [Concepto](#Concepto)
+- [Funciones](#Funciones)
+- [Pase de parametros](#Pase_de_parametros)
+
+## Concepto
 La programación modular es un modelo de diseño de software basado en la técnica de "divide y vencerás". Cuando un desarrollador se enfrenta a algoritmos extensos la modularización permite fraccionar ese programa de gran escala en subprogramas mucho más pequeños.
 A estos bloques de construcción se les conoce como funciones, procesos, rutinas, subrutinas o procedimientos.
 
@@ -23,3 +29,5 @@ Realiza una copia exacta de un contenido de la variable original y se la entrega
 Comparte la dirección de memoria exacta donde se aloja el dato original. La función no tranaja con una copia, sino que opera directamente sobre la misma variable del programa principal.
 
 <img width="686" height="255" alt="image" src="https://github.com/user-attachments/assets/a23a980e-e812-48d7-879f-560857cef8b6" />
+
+[Volver al inicio](#indice)
