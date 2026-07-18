@@ -2,6 +2,6 @@
 
 # 📚 UNIDAD 3
 
-## 📗[Modularidad](Modularidad.md)
-## 📕[Arreglos](Arreglos.md)
-## 📘[Principales dificultades y reflexión crítica](Pyr.md)
+## 📗[MODULARIDAD](Modularidad.md)
+## 📕[ARREGLOS](Arreglos.md)
+## 📘[PRINCIPALES DIFICULTADES Y REFLEXIÓN CRÍTICA](Pyr.md)
