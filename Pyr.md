@@ -1,6 +1,6 @@
 [Regresar](UNIDAD3.md)
 
-#📘 PRINCIPALES DIFICULTADES Y REFLEXIÓN CRÍTICA
+# 📘 PRINCIPALES DIFICULTADES Y REFLEXIÓN CRÍTICA
 
 ## Dificultades
 Tuve dos dificultades.
