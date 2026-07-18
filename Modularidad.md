@@ -23,11 +23,20 @@ El cuerpo, en cambio, contiene las variables locales de acceso restringido y el 
 ### Por valor
 Realiza una copia exacta de un contenido de la variable original y se la entrega a la función. El módulo trabaja únicamente con esa copia dentro de su propio bloque de memoria. Esto quiere decir que cualquier modificación que se realice dentro de la función no altera ni afecta al dato original que se encuentra en el programa principal.
 
-<img width="607" height="290" alt="image" src="https://github.com/user-attachments/assets/4dc80b7e-eb85-4ec8-828a-c50cc15a63b1" />
+<img width="618" height="288" alt="image" src="https://github.com/user-attachments/assets/814c9ba3-bcba-4cc3-9297-cb38489b4b52" />
+
+Salida
+
+<img width="324" height="33" alt="image" src="https://github.com/user-attachments/assets/fdd3a71a-50f9-4356-b6f1-afeaf1c127fc" />
+
 
 ### Por referencia
 Comparte la dirección de memoria exacta donde se aloja el dato original. La función no tranaja con una copia, sino que opera directamente sobre la misma variable del programa principal.
 
-<img width="686" height="255" alt="image" src="https://github.com/user-attachments/assets/a23a980e-e812-48d7-879f-560857cef8b6" />
+<img width="608" height="326" alt="image" src="https://github.com/user-attachments/assets/bca8560a-7a3b-434e-a60c-5f2130451702" />
+
+Salida
+
+<img width="315" height="39" alt="image" src="https://github.com/user-attachments/assets/8a07dd89-2d9b-4093-beb9-6ec368c03451" />
 
 [Volver al inicio](#modularidad)
