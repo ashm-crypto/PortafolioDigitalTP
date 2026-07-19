@@ -22,8 +22,8 @@
 <br>
 <br>
 [8]	«¿Qué es un algoritmo? Ejemplos de uso cotidianos | ESIC». Accedido: 9 de junio de 2026. [En línea]. Disponible en: https://www.esic.edu/rethink/tecnologia/que-es-un-algoritmo-ejemplos-de-aplicacion-en-la-vida-cotidiana-c
-
-
+<br>
+[9]	«Introduction to Algorithms, 3e, 3e | The MIT Press». Accedido: 18 de julio de 2026. [En línea]. Disponible en: https://mitpress.ublish.com/book/introduction-algorithms
 
 
 
