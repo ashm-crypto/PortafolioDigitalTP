@@ -23,20 +23,28 @@ El cuerpo, en cambio, contiene las variables locales de acceso restringido y el 
 ### Por valor
 Realiza una copia exacta de un contenido de la variable original y se la entrega a la función. El módulo trabaja únicamente con esa copia dentro de su propio bloque de memoria. Esto quiere decir que cualquier modificación que se realice dentro de la función no altera ni afecta al dato original que se encuentra en el programa principal.
 
-<img width="618" height="288" alt="image" src="https://github.com/user-attachments/assets/814c9ba3-bcba-4cc3-9297-cb38489b4b52" />
+## Ejemplo
+Una tienda departamental quiere mostrar a sus clientes en una pantalla interactiva cuántos puntos de recompensa obtendrían si se inscribieran a la promoción "Doble Puntuación". Sin embargo, como es solo una simulación previa, el saldo real de puntos del cliente no debe modificarse en el sistema principal.
+
+<img width="555" height="268" alt="image" src="https://github.com/user-attachments/assets/ebcda367-bb5b-40d3-acb4-33372eab0790" />
+
 
 Salida
 
-<img width="324" height="33" alt="image" src="https://github.com/user-attachments/assets/fdd3a71a-50f9-4356-b6f1-afeaf1c127fc" />
-
+<img width="262" height="32" alt="image" src="https://github.com/user-attachments/assets/bee1bef0-3620-474a-b0b6-90408ff71ff8" />
 
 ### Por referencia
 Comparte la dirección de memoria exacta donde se aloja el dato original. La función no tranaja con una copia, sino que opera directamente sobre la misma variable del programa principal.
 
-<img width="608" height="326" alt="image" src="https://github.com/user-attachments/assets/bca8560a-7a3b-434e-a60c-5f2130451702" />
+## Ejemplo
+En un videojuego, un personaje tiene una estadística de fuerza base. Al seleccionar una habilidad especial, la interfaz calcula temporalmente cuánto daño causaría si su fuerza se duplicara. No obstante, la fuerza base del personaje en su ficha de perfil debe permanecer intacta.
+
+<img width="492" height="258" alt="image" src="https://github.com/user-attachments/assets/9dc0ea48-3640-48f9-9b82-28762d8753eb" />
+
 
 Salida
 
-<img width="315" height="39" alt="image" src="https://github.com/user-attachments/assets/8a07dd89-2d9b-4093-beb9-6ec368c03451" />
+<img width="249" height="36" alt="image" src="https://github.com/user-attachments/assets/6349edef-a7a7-47c9-81ac-c0af0442f612" />
+
 
 [Volver al inicio](#modularidad)
