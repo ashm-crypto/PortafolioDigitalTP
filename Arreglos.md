@@ -11,7 +11,11 @@ Un arreglo, también conocido como vector o array, es una estructura de datos ho
 ### Arreglos Unidimensionales
 Son estructuras de una sola dimensión que representan una lista lineal de elementos. Visualmente se pueden imaginar como una fila de casillas numeradas secuencialmente, donde para encontrar cualquier dato almacenado basta con especificar un único índice.
 
-<img width="516" height="287" alt="image" src="https://github.com/user-attachments/assets/a0d7650c-700b-4d31-b87f-e01aa29c18a7" />
+## Ejercicio
+La tienda de ropa "ModaExpress" necesita un sistema básico para registrar el inventario de su modelo de camiseta más vendido. El producto se distribuye en $6$ tallas diferentes (XS, S, M, L, XL, XXL).
+
+<img width="397" height="239" alt="image" src="https://github.com/user-attachments/assets/fcb04d38-5327-4179-aaac-d700d40c389c" />
+
 
 Salida
 
@@ -20,19 +24,28 @@ Salida
 ### Arreglos Bidimensionales
 Son estructuras de dos dimensiones organizadas en forma de tabla, compuestas por filas y columnas. Para poder almacenar, modificar o leer un elemento dentro de una matriz, es estrictamente obligatorio proporcionar dos índices: el primero para indicar la fila y el segundo para la columna.
 
-<img width="580" height="328" alt="image" src="https://github.com/user-attachments/assets/7e258366-e5ba-49dd-8234-76c7ca5b3f69" />
+## Ejercicio
+La misma tienda requiere organizar su bodega principal en una tabla que clasifique el stock según el tipo de prenda (filas) y la talla (columnas: S, M, L).
+
+<img width="470" height="336" alt="image" src="https://github.com/user-attachments/assets/9ed7daf3-34b9-478d-891f-74552d51079e" />
+
 
 Salida
 
-<img width="116" height="38" alt="image" src="https://github.com/user-attachments/assets/53d301f6-f38a-478e-a76b-89ed94932997" />
+<img width="157" height="33" alt="image" src="https://github.com/user-attachments/assets/f46f33a9-f8ec-4226-ba9f-6737f2871375" />
 
 ### Arreglos Multidimensionales
 Son estructuras que poseen tres o más dimensiones, extendiendo el concepto de matriz a coordenadas más complejas. Un arreglo tridimensional (3D), por ejemplo, puede visualizarse como un cubo de datos o una colección de matrices, donde se requieren tres índices para ubicar un valor: la profundidad (o capa), la fila y la columna.
 
-<img width="676" height="416" alt="image" src="https://github.com/user-attachments/assets/7f40583e-ec7c-4860-b2e5-f04ea5ac9649" />
+## Ejercicio
+"ModaExpress" se ha expandido y ahora administra $2$ sucursales (Centro y Norte). Cada sucursal maneja 2 modelos de prendas y cada modelo tiene 3 tallas.
+
+<img width="506" height="507" alt="image" src="https://github.com/user-attachments/assets/4baa487c-fff2-4cda-b2b9-6feaef6cbd07" />
+
 
 Salida
 
-<img width="108" height="128" alt="image" src="https://github.com/user-attachments/assets/ce4bbb91-8da2-402a-be79-41b5fcb20345" />
+<img width="204" height="110" alt="image" src="https://github.com/user-attachments/assets/0ea7eb1e-f313-4e88-9fb0-83556e16ab62" />
+
 
 [Volver al inicio](#Arreglos)
