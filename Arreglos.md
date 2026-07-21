@@ -25,7 +25,7 @@ Salida
 Son estructuras de dos dimensiones organizadas en forma de tabla, compuestas por filas y columnas. Para poder almacenar, modificar o leer un elemento dentro de una matriz, es estrictamente obligatorio proporcionar dos índices: el primero para indicar la fila y el segundo para la columna.
 
 ## Ejercicio
-La misma tienda requiere organizar su bodega principal en una tabla que clasifique el stock según el tipo de prenda (filas) y la talla (columnas: S, M, L).
+La misma tienda requiere organizar su bodega principal en una tabla que clasifique el stock según el tipo de prenda (filas) y la talla (columnas).
 
 <img width="470" height="336" alt="image" src="https://github.com/user-attachments/assets/9ed7daf3-34b9-478d-891f-74552d51079e" />
 
@@ -38,7 +38,7 @@ Salida
 Son estructuras que poseen tres o más dimensiones, extendiendo el concepto de matriz a coordenadas más complejas. Un arreglo tridimensional (3D), por ejemplo, puede visualizarse como un cubo de datos o una colección de matrices, donde se requieren tres índices para ubicar un valor: la profundidad (o capa), la fila y la columna.
 
 ## Ejercicio
-"ModaExpress" se ha expandido y ahora administra $2$ sucursales (Centro y Norte). Cada sucursal maneja 2 modelos de prendas y cada modelo tiene 3 tallas.
+"ModaExpress" se ha expandido y ahora administra 2 sucursales (Centro y Norte). Cada sucursal maneja 2 modelos de prendas y cada modelo tiene 3 tallas.
 
 <img width="506" height="507" alt="image" src="https://github.com/user-attachments/assets/4baa487c-fff2-4cda-b2b9-6feaef6cbd07" />
 
