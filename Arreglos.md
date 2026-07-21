@@ -12,7 +12,7 @@ Un arreglo, también conocido como vector o array, es una estructura de datos ho
 Son estructuras de una sola dimensión que representan una lista lineal de elementos. Visualmente se pueden imaginar como una fila de casillas numeradas secuencialmente, donde para encontrar cualquier dato almacenado basta con especificar un único índice.
 
 ## Ejercicio
-La tienda de ropa "ModaExpress" necesita un sistema básico para registrar el inventario de su modelo de camiseta más vendido. El producto se distribuye en $6$ tallas diferentes (XS, S, M, L, XL, XXL).
+La tienda de ropa "ModaExpress" necesita un sistema básico para registrar el inventario de su modelo de camiseta más vendido. El producto se distribuye en $6$ tallas diferentes.
 
 <img width="397" height="239" alt="image" src="https://github.com/user-attachments/assets/fcb04d38-5327-4179-aaac-d700d40c389c" />
 
